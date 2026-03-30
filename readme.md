@@ -1,4 +1,4 @@
-# 🤖 Project: Reactive Obstacle Avoidance with Dynamic Objects
+# Reactive Obstacle Avoidance with Dynamic Objects
 **목표:** Deep RL 및 HRL을 활용하여 동적 장애물을 회피하며 미션을 수행하는 로봇 에이전트 개발
 
 ---
